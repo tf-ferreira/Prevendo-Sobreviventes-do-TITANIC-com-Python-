@@ -10,7 +10,7 @@ Este projeto é uma análise exploratória e preditiva da famosa competição "T
 - Comparar acurácia e performance dos modelos
 - Comunicar os insights de forma clara
 
-- ## 🧰 Tecnologias e Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 - Jupyter Notebook
